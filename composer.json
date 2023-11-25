@@ -1,0 +1,12 @@
+{
+    "name": "openmage-strict/module-catalog-rule",
+    "description": "Mage_CatalogRule",
+    "license": "OSL-3.0",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "openmage-strict/module-catalog": "*",
+        "openmage-strict/module-customer": "*",
+        "openmage-strict/module-rule": "*"
+    }
+}

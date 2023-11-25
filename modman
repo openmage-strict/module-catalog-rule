@@ -1,0 +1,3 @@
+src/app/code/core/Mage/CatalogRule/             app/code/core/Mage/CatalogRule/
+src/app/etc/modules/Mage_CatalogRule.xml        app/etc/modules/Mage_CatalogRule.xml
+src/app/locale/en_US/Mage_CatalogRule.csv       app/locale/en_US/Mage_CatalogRule.csv
